@@ -1,22 +1,5 @@
-# Flowmate Site
-**Chamer Soluções em Tecnologia**
+# Karaokê
+**Karaokê criado para a festa de fim de ano da familia Rodrigues Pinto.**
 
-```bash
-# Next.js Template - fonte: https://nextjs.org/docs/basic-features/typescript
-$ npx create-next-app@latest --ts
-Dê um nome para o seu projeto typescript
+Projeto simples criado em uma tarde, no dia 31/12/2023, por Vinicius Alves Rodrigues Pinto.
 
-ESLint: 6.8.0 ou 7.32.0. Versões posteriores podem apresentar instabilidade
-
-# Rodar projeto (dev)
-$ yarn dev
-
-# Buildar projeto
-$ yarn build
-
-# Rodar projeto após a build
-$ yarn start
-
-# Listar dependências obsoletas
-$ yarn outdated
-```
